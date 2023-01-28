@@ -1,0 +1,15 @@
+.add-horm{
+    margin-bottom: 40px;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+input[type=submit]{
+    margin-bottom: 10px;
+    background-color:mediumblue;
+}
+input[type=submit]:hover{
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 205, 0.5);
+}
